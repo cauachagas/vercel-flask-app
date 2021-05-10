@@ -1,0 +1,1 @@
+Código do "Tutorial de como fazer deploy de uma aplicação Flask na Vercel", apresentado no meu blog https://cauachagas.vercel.app
